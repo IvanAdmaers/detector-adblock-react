@@ -1,0 +1,1 @@
+This package name has been reserved by [detect-adblock-react](https://github.com/IvanAdmaers/detect-adblock-react).
